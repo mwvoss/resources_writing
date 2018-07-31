@@ -7,7 +7,8 @@
     * introduce topic and why it is important, try to use a hook to grab reader's attention 
     * introduce the basic narrative (unresolved mystery, controversy, real-world issue needs attention)
     * end with a brief statement of how the current study resolves the unknown
-  * Provide more specifics as you work through the narrative. Need to address:
+  * Now provide more specifics as you work through the narrative. 
+  * Need to convey through your narrative:
     * What we know
       * respect the original aims of the research
       * be well-rounded in how you cite previous literature
@@ -20,7 +21,7 @@
 
 Note differences across fields
   * Medical journals (including neuroscience) vs. psychological sciences
-  * Examples:
-      Really short: Erickson et al., 2010 PNAS
-      A little longer: Erickson et al., 2009 JNeuro; Seeley et al., 2007 JNeuro
-      Longer: Voss et al 2012, Clark et al., 2018
+  * Great examples?
+
+
+![](images/empirical-hourglass.png)
